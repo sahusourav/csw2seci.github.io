@@ -6,6 +6,8 @@
 
 - Date of launch :- ```April,30 2020```
 
-- Contributor
+- Founded by
 
-  -[Sourav Sahu](https://github.com/sahusourav)
+```Sourav Sahu```
+
+Visit his GitHub profile page [here.](https://github.com/sahusourav)
