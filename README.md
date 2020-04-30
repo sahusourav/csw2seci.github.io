@@ -6,7 +6,7 @@
 
 - Date of launch :- ```April,30 2020```
 
-- Founded by
+- Made by
 
 ```Sourav Sahu```
 
