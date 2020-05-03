@@ -4,9 +4,9 @@
 
 - This website is made for ```Clear your Doubt``` purpose
 
-- Date of launch :- ```April,30 2020```
+- Date of launch :- ```April 30, 2020```
 
-- Made by
+#### Made by
 
 ```Sourav Sahu```
 
